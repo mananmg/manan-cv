@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>my contact details</h1>
+  <p>Fictional address</p>
+  <p>9813866629</p>
+  <p>manangupta2831999@gmail.com</p>
+<form class="" action="mailto:manangupta2831999@gmail.com" method="post" enctype="text/plain">
+  <label>your name </label>
+  <input type="text" name="your name" value=""><br>
+  <label>your email</label>
+  <input type="email" name="your email" value="">
+<label>your message</label>
+<textarea name="your message" rows="8" cols="80"></textarea>
+  <label>password</label>
+  <input type="password" name="" value="">
+  <input type="submit" name="">
+
+</form>
+</body>
+
+</html>
